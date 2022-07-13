@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Aline, I'm an oceanographer passionate about coding
 
 <!--
 **alinedefreitasocn/alinedefreitasocn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
