@@ -1,5 +1,9 @@
 ### Hi there 👋
-My name is Aline, I'm an oceanographer passionate about coding
+My name is Aline
+
+🌊 I'm an oceanographer
+🏖️ and a master in Coastal Engineering
+👩🏽‍💻 I'm currently leraning HTML and CSS
 
 <!--
 **alinedefreitasocn/alinedefreitasocn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
