@@ -1,9 +1,17 @@
 ### Hi there 👋
 My name is Aline
 
-🌊 I'm an oceanographer
-🏖️ and a master in Coastal Engineering
-👩🏽‍💻 I'm currently leraning HTML and CSS
+- 🌊 I'm an oceanographer
+- 🏖️ and a master in Coastal Engineering
+- 👩🏽‍💻 I'm currently leraning HTML and CSS
+
+<div align="center">
+  <a href="https://github.com/alinedefreitasocn">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinedefreitasocn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinedefreitasocn&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
 
 <!--
 **alinedefreitasocn/alinedefreitasocn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
