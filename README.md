@@ -2,8 +2,8 @@
 My name is Aline
 
 - 🌊 I'm an oceanographer
-- 🏖️ and a master in Coastal Engineering
-- 👩🏽‍💻 I'm currently leraning HTML and CSS
+- 🏖️ with master'ss degree in Coastal Engineering
+- 👩🏽‍💻 I'm currently learning HTML and CSS
 
 <div align="center">
   <a href="https://github.com/alinedefreitasocn">
