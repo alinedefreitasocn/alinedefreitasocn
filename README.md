@@ -1,8 +1,8 @@
 ### Hi there 👋
 My name is Aline
 
-- 🌊 I'm an oceanographer
-- 🏖️ with master's degree in Coastal Engineering
+- 🌊 I'm a Coastal Engineer
+- I'm on LeWagon Bootcamp
 
 
 <div align="center">
