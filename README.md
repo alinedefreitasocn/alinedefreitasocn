@@ -6,6 +6,10 @@ My name is Aline
 - 📚📊 studying to become a Data Scientist
 - ⚡ Fun fact: I learned Italian during my gap year thanks to a sailing school in Sardegna, a hostel in Napoli, and a month in Albania.
 
+If you are interested on my work, take a look on my [webpage](https://alinedefreitasocn.github.io/).
+I will be happy to be in touch.
+
+
 
 <div align="center">
   <a href="https://github.com/alinedefreitasocn">
