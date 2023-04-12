@@ -7,7 +7,7 @@ My name is Aline
 - ⚡ Fun fact: I learned Italian during my gap year thanks to a sailing school in Sardegna, a hostel in Napoli, and a month in Albania.
 
 
-If you are interested on my work, take a look on my [webpage](https://alinedefreitasocn.github.io/). 
+If you are interested on my work, take a look on my [webpage](https://alinedefreitasocn.github.io/) [🛠️ Under Construction...]. 
 
 
 I will be happy to be in touch.
