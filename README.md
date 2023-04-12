@@ -10,7 +10,7 @@ My name is Aline
 If you are interested on my work, take a look on my [webpage](https://alinedefreitasocn.github.io/) [🛠️ Under Construction...]. 
 
 
-I will be happy to be in touch.
+I will be happy to be in touch for any further question.
 
 
 
