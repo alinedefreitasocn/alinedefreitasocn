@@ -1,3 +1,5 @@
+<kbd> <img src="https://github.com/alinedefreitasocn/wordcloud/blob/main/github.png" /> </kbd>
+
 ### Hi there 👋
 My name is Aline
 
