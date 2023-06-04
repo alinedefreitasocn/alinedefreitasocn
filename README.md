@@ -1,20 +1,38 @@
 <kbd> <img src="https://github.com/alinedefreitasocn/wordcloud/blob/main/github.png" /> </kbd>
 
-### Hi there 👋
-My name is Aline
+<div id="about" align="center">
+<h1>
+  Hi there 👋
+  </h1>
+</div>
 
+My name is Aline
 - 🌊 I'm an oceanographer
 - 🏖️ with master's degree in Coastal Engineering
 - 📚📊 Data Science Le Wagon student 
 - ⚡ Fun fact: I learned Italian during my gap year thanks to a sailing school in Sardegna, a hostel in Napoli, and a month in Albania.
 
 
-If you are interested on my work, take a look on my [webpage](https://alinedefreitasocn.github.io/) [🛠️ Under Construction...]. 
-
-
+<!-- If you are interested on my work, take a look on my [webpage](https://alinedefreitasocn.github.io/) [🛠️ Under Construction...]. -->
+---
+# How to reach me
 I will be happy to be in touch for any further question.
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/alineldefreitas/">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://alinedefreitasocn.github.io/">
+    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Github Pages Badge"/>
+  </a>
+  <a href="mailto:alfreitas.ocn@gmail.com">
+    <img src="https://img.shields.io/badge/Mail me-black?style=for-the-badge&logo=gmail&logoColor=#EA4335" alt="Mail me Badge"/>
+  </a>
+</div>
 
 
+
+
+---
 
 <div align="center">
   <a href="https://github.com/alinedefreitasocn">
