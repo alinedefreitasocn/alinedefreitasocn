@@ -13,9 +13,9 @@ My name is Aline
 - ⚡ Fun fact: I learned Italian during my gap year thanks to a sailing school in Sardegna, a hostel in Napoli, and a month in Albania.
 
 ## My main interests:
-- Renewable energy
-- Sustainable solutions
-- Environmental subjects
+- :zap: Renewable energy
+- :recycle: Sustainable solutions
+- :herb: Environmental subjects
 
 ---
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minoveaz&repo=angular-web-portfolio)](https://github.com/minoveaz/angular-web-portfolio) -->
