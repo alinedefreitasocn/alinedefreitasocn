@@ -1,4 +1,6 @@
-<kbd> <img src="https://github.com/alinedefreitasocn/wordcloud/blob/main/github.png" /> </kbd>
+<div align="center">
+<kbd> <img src="https://github.com/alinedefreitasocn/wordcloud/blob/main/github.png" width= 500px height= 200px /> </kbd> 
+</div>
 
 <div id="about" align="center">
 <h1>
