@@ -21,7 +21,6 @@ My name is Aline
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minoveaz&repo=angular-web-portfolio)](https://github.com/minoveaz/angular-web-portfolio) -->
 ### Tools
 
-
 <div align="center">
   <p>
   <img src="https://img.shields.io/badge/-Linux-000?&logo=Linux" alt="Linux Badge"/>
