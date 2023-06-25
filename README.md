@@ -11,7 +11,7 @@
 My name is Aline
 - 🌊 I'm an oceanographer
 - 🏖️ with master's degree in Coastal Engineering
-- 📚📊 Data Scientist from Le Wagon
+- 📚📊 Data Engineer from Le Wagon
 - ⚡ Fun fact: I'm passionate about learning new languages through immersive experiences.
 
 ## My main interests:
