@@ -12,7 +12,7 @@ My name is Aline
 - 🌊 I'm an oceanographer
 - 🏖️ with master's degree in Coastal Engineering
 - 📚📊 Data Scientist from Le Wagon
-- ⚡ Fun fact: I learned Italian during my gap year thanks to a sailing school in Sardegna, a hostel in Napoli, and a month in Albania.
+- ⚡ Fun fact: I'm passionate about learning new languages through immersive experiences.
 
 ## My main interests:
 - :zap: Renewable energy
